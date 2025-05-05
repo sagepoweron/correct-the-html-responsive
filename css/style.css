@@ -173,12 +173,18 @@ hr {
 	.main-article {
 		width: 60%;
 		border-radius: 0.6rem;
-		margin: 0;
+		margin: 10px;
+		
 	}
 
 	.main-sidebar {
 		width: 40%;
 		border-radius: 0.6rem;
-		margin: 0;
+		margin: 10px;
+	}
+
+	.main .container
+	{
+		display: flex;
 	}
 }
